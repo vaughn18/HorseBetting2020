@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseBetting2020", "HorseBetting2020.csproj", "{EDAA98C6-5E6A-43B8-81EC-FCB03CAD7393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseBettingUnitTest2020", "..\HorseBettingUnitTest2020\HorseBettingUnitTest2020.csproj", "{BBF548E6-13F1-4366-9B33-2515369E17B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAA98C6-5E6A-43B8-81EC-FCB03CAD7393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAA98C6-5E6A-43B8-81EC-FCB03CAD7393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAA98C6-5E6A-43B8-81EC-FCB03CAD7393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAA98C6-5E6A-43B8-81EC-FCB03CAD7393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF548E6-13F1-4366-9B33-2515369E17B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF548E6-13F1-4366-9B33-2515369E17B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF548E6-13F1-4366-9B33-2515369E17B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF548E6-13F1-4366-9B33-2515369E17B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A49E476-F4C6-4BA9-8C33-84E9B2C5B66E}
+	EndGlobalSection
+EndGlobal
